@@ -6,9 +6,8 @@
 - 🌱 I'm looking for job that can improve myself (due to covid situation, i can't find work or WFH.)
 - 👀 I'm totally newbie, and have few programming experience (but start to improve myself for now.)
 
-![](https://raw.githubusercontent.com/lolipuru/lolipuru/main/profile-summary-card-output/dracula/0-profile-details.svg)
-![](https://raw.githubusercontent.com/lolipuru/lolipuru/main/profile-summary-card-output/dracula/3-stats.svg)![](https://raw.githubusercontent.com/lolipuru/lolipuru/main/profile-summary-card-output/dracula/4-productive-time.svg)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lolipuru&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lolipuru&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lolipuru&theme=dracula)
 
 <!---
 lolipuru/lolipuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
