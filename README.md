@@ -1,8 +1,8 @@
-### Hello there!, Welcome to my github profile. 👋
+### my github profile in a nutshell.
 
 ### I'm a Newbie Developer
-- 🔭 Freelance, full-stack. currently on android kernel and custom rom maintainer
-- 📱 My device that i currently own is : Mi mix 3 (perseus) , Mi A1 (Tissot) and Mi 9T Pro (K20 Pro / Raphael)
+- 🔭 (not a) android enthusiast
+- 📱  My device that i currently own is : Mi 10T Pro (apollo)
 - 🌱 I'm looking for job that can improve myself (due to covid situation, i can't find work or WFH.)
 - 👀 I'm totally newbie, and have few programming experience (but start to improve myself for now.)
 
