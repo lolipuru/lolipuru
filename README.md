@@ -6,6 +6,9 @@
 - 🌱 I'm looking for job that can improve myself (due to covid situation, i can't find work or WFH.)
 - 👀 I'm totally newbie, and have few programming experience (but start to improve myself for now.)
 
+### for someone who want to look for sony device tree, i have been moved all repo into my personal org.
+https://github.com/sonybasement
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lolipuru&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lolipuru&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lolipuru&theme=dracula)
 
