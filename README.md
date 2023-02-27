@@ -1,10 +1,8 @@
 ### my github profile in a nutshell.
 
-### I'm a Newbie Developer
 - 🔭 (not a) android enthusiast
-- 📱  My device that i currently own is : Mi 10T Pro (apollo)
-- 🌱 I'm looking for job that can improve myself (due to covid situation, i can't find work or WFH.)
-- 👀 I'm totally newbie, and have few programming experience (but start to improve myself for now.)
+- 📱 Device : pdx206 (Xperia 5 II)
+- i'm really noob on android development
 
 ### for someone who want to look for sony device tree, i have been moved all repo into my personal org.
 https://github.com/sonybasement
